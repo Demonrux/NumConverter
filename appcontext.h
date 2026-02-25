@@ -10,9 +10,9 @@
 #define DEFAULT_STR "\0"
 
 struct AppContext{
-    long value = DEFAULT_VALUE;
-    short inputStatus = ONLINE;
-    short addStatus = OFLINE;
+    long value = 0;
+    short inputStatus = 1;
+    short addStatus = 0;
     unsigned currentBase = DEFAULT_BASE;
     unsigned toBase = DEFAULT_BASE;
     char result[LEN] = DEFAULT_STR;
