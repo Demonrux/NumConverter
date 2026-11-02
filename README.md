@@ -65,7 +65,7 @@ enum Operation {
 ```
 
 ### Интерфейс:
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/1b806123-06bf-4fb7-88f0-725910f02f81" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/1b806123-06bf-4fb7-88f0-725910f02f81" />
 
 
 ## Алгоритмы конвертации:
